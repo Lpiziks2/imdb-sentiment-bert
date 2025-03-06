@@ -21,14 +21,10 @@ This project focuses on **sentiment classification** of IMDb movie reviews using
 - **Test F1 Score:** 88.0%
 
 ## Installation & Setup
-1. Clone the repository:
+   Clone the repository:
    ```bash
    git clone 
    cd imdb-sentiment-analysis
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
    ```
 
 ## Dataset & Citation
