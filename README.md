@@ -24,7 +24,7 @@ flowchart LR
 
 ## Run it
 
-Open `Portfolio_Assignment_2_.ipynb` in Google Colab with a GPU runtime and run the cells in order. The dataset and pretrained model download automatically from Hugging Face.
+Open [`imdb_sentiment_bert.ipynb`](imdb_sentiment_bert.ipynb) in Google Colab with a GPU runtime and run the cells in order. The dataset and pretrained model download automatically from Hugging Face.
 
 ## Limitations and next steps
 
